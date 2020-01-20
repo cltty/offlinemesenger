@@ -1,2 +1,2 @@
 # offlinemesenger
-Offline messenger (multi client/server) using socketss.
+Offline messenger (multi client/server) using sockets and SQLITE3.
